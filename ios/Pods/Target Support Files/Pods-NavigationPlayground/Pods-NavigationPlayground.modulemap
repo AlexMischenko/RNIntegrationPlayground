@@ -1,0 +1,6 @@
+module Pods_NavigationPlayground {
+  umbrella header "Pods-NavigationPlayground-umbrella.h"
+
+  export *
+  module * { export * }
+}

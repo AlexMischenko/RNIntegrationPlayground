@@ -1,0 +1,6 @@
+module Pods_NavigationPlayground_NavigationPlaygroundTests {
+  umbrella header "Pods-NavigationPlayground-NavigationPlaygroundTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

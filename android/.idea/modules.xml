@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JustAndroidApp.iml" filepath="$PROJECT_DIR$/.idea/modules/JustAndroidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JustAndroidApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JustAndroidApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/582109486/JustAndroidApp.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/582109486/JustAndroidApp.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1130006934/JustAndroidApp.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1130006934/JustAndroidApp.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2079932686/JustAndroidApp.react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/2079932686/JustAndroidApp.react-native-community_netinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1497387437/JustAndroidApp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1497387437/JustAndroidApp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-155634609/JustAndroidApp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-155634609/JustAndroidApp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/826651350/JustAndroidApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/826651350/JustAndroidApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/912557678/JustAndroidApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/912557678/JustAndroidApp.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
